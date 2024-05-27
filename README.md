@@ -4,6 +4,6 @@ This is the project repository for the JabRef extension "Abstract Translator". T
 
 The goal of the project was to provide users with the possibility to automatically translate into German abstracts contained in a JabRef library.
 
-Specific details of the project and implementation may be found in the Functional Specification and Technical Documentation.
+Specific details of the project and implementation may be found in the [Functional Specification](https://github.com/sean-leichtle/jabref-hs2022/blob/main/docs/sweng/Pflichtenheft.md) and [Technical Documentation](https://github.com/sean-leichtle/jabref-hs2022/blob/main/docs/sweng/TechnischeDokumentation.md).
 
-The original README document for JabRef can be found here.
+The original README document for the version of JabRef employed in the project may be found [here](https://github.com/sean-leichtle/jabref-hs2022/blob/main/ORIGINALREADME.md).
