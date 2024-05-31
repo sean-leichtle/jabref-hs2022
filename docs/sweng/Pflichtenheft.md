@@ -226,7 +226,7 @@ in JabRef erfasst. Die Nutzerin hat in den JabRef- Einstellungen die Sprache "De
 [^2]: Dabei spielt es keine Rolle, ob es sich dabei um einen neuen oder bestehenden Eintrag handelt.
 
 [^3]: Wir verwenden dazu ein Google-Apps-Script-Skript ([https://script.google.com/](https://script.google.com/)), das auf die Google Translation API zugreift. Siehe:
-https://github.com/mwb28/jabref/commit/dde3242a6244d2ca95f66cadd8aa553c751e9984 (aufgerufen am 01.09.2022).
+https://github.com/sean-leichtle/jabref-hs2022/blob/main/src/main/java/org/jabref/logic/formatter/translator/TranslationAPIForJabRef.js (aufgerufen am 01.09.2022).
 
 [^4]: Siehe: [https://cloud.google.com/translate/docs/languages](https://cloud.google.com/translate/docs/languages) (aufgerufen am 1.9.2022)
 

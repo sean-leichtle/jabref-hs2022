@@ -53,7 +53,7 @@ Der Zweck des vorliegenden Dokuments ist es, Aufschluss über die technischen As
 Das Dokument selbst richtet sich an technisch interessierte Endbenutzer sowie an Personen, die sich mit der Wartbarkeit sowie der zukünftigen Erweiterung der JabRef-Software befassen möchten.
 
 ### 1.2 Beziehung zu anderen Dokumenten
-Die vorliegende Dokumentation ergänzt das Pflichtenheft für das Projekt “Abstract Translator: eine Erweiterung für JabRef” (siehe https://rb.gy/3ieeth). Sie beschäftigt sich hauptsächlich mit modifizierten sowie mit neuen, ergänzenden Klassen im Kontext des JabRef-Systems, insbesondere mit den in 5.1, unten, erläuterten Klassen.
+Die vorliegende Dokumentation ergänzt das Pflichtenheft für das Projekt “Abstract Translator: eine Erweiterung für JabRef” (siehe https://github.com/sean-leichtle/jabref-hs2022/blob/main/docs/sweng/Pflichtenheft.md). Sie beschäftigt sich hauptsächlich mit modifizierten sowie mit neuen, ergänzenden Klassen im Kontext des JabRef-Systems, insbesondere mit den in 5.1, unten, erläuterten Klassen.
 
 ## 2. Systemübersicht
 
